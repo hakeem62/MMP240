@@ -10,6 +10,43 @@
   background-color:white;
   text-align: center;
 }
+
+
+
+
+
+h2{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 48px;
+  color: #123f12;
+  background-color: #cbd2e7;
+  padding: 0 0px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 300px;
+}
+
+h3{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 48px;
+  color: #123f12;
+  background-color: #cbd2e7;
+  padding: 0 5px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 200px;
+}
+
+h4{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 48px;
+  color: #123f12;
+  background-color: #cbd2e7;
+  padding: 0 5px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 300px;
+}
+
+
+
 @media only screen and (min-width: 600px) {
   main {
     width: 50%;
