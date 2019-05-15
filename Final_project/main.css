@@ -1,0 +1,138 @@
+section{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.featured-image img{
+  display: block;
+  width: 100%;
+  height: auto;
+
+}
+.image-caption{
+  font-size: 60%;
+  padding: .75em 1em;
+  background-color:white;
+  text-align: center;
+}
+
+h2{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  background-color:#7c181d;
+  padding: 0 0px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 300px;
+}
+
+h3{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  background-color: #7c181d;
+  padding: 0 2px 5px 5px;
+  margin: 10px 0 100px 0;
+  width: 200px;
+}
+
+h4{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  background-color: #7c181d;
+  padding: 0 5px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 200px;
+}
+
+h5{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  background-color: #7c181d;
+  padding: 0 5px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 200px;
+}
+
+h6{
+  font-family:"Courier New", Courier, monospace;
+  font-size: 30px;
+  color: white;
+  background-color: #7c181d;
+  padding: 0 5px 5px 5px;
+  margin: 10px 0 200px 0;
+  width: 200px;
+}
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+  main {
+    width: 50%;
+    float: left;
+  }
+}
+/*
+.rt-responsive{
+  max-width: 100%;
+  height: auto;
+  float: right;
+  margin: 15px 0 25px 15px;
+}*/
+
+/*.center-responsive{
+  display: block;
+  margin: 60px auto;
+  clear: both;
+  max-width: 100%;
+  height: auto;
+}
+*/
+
+/* Typographic Scaling */
+/* 
+
+  Some tools to help with typographic Styles:
+
+  Google Fonts - fonts.google.com
+  Hello Color - http://jxnblk.com/hello-color/  
+  Type Scale: A Visual Calculator - https://type-scale.com/ 
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400|PT+Sans+Caption:400');
+
+html {font-size: 16px;}
+
+body {
+  background-color: #2b7980;
+  text-align:  center;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #540000;
+}
+
+#main{
+  width: 1000px;
+  height: 600px;
+  background:#2b7980;
+}
+
+p {margin-bottom: 1.25em;
+  background-color: white;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1rem;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+
+
