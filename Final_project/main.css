@@ -97,13 +97,18 @@ h6{
     min-width: 500px;
   }
 }
-/*
+
 .rt-responsive{
   max-width: 100%;
   height: auto;
   float: right;
   margin: 15px 0 25px 15px;
-}*/
+}
+
+.rt-responsive{
+
+  display: inline-block;
+}
 
 /*.center-responsive{
   display: block;
