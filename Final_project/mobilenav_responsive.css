@@ -17,7 +17,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #2E382E;
+  background-color: black;
 
 }
 
@@ -32,7 +32,7 @@
 }
 
 .topnav a:hover {
-  background-color: #72A1E5;
+  background-color: #63141b;
   color: black;
 }
 
