@@ -78,6 +78,14 @@ h6{
   width: 200px;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+   text-decoration: underline;
+}
 
 
 @media only screen and (min-width: 600px) {
